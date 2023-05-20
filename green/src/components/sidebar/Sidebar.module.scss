@@ -1,0 +1,14 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 12px 36px;
+    gap: 8px;
+
+    .title {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 36px 0;
+    }   
+
+}

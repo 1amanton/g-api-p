@@ -1,0 +1,24 @@
+
+.container {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+
+    .left {
+        flex: 1;
+        background-color: #1b9d53;
+        height: 100vh;
+        border-right: 1px solid black;
+    }
+
+
+    .right {
+        flex: 3;        
+    }
+
+}
